@@ -1,4 +1,4 @@
-(defproject org.clojars.jnorton/cdt  "1.2.6.4-SNAPSHOT"
+(defproject org.clojars.jnorton/cdt  "1.2.6.5"
   :description "Clojure Debugging Toolkit - changes to support VS Code Continuum"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [clansi "1.0.0"]
